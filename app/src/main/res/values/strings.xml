@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Otto.Bus</string>
+    <string name="send_event">Send event from fragment</string>
+</resources>
